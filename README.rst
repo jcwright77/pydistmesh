@@ -1,6 +1,8 @@
 PyDistMesh_: A Simple Mesh Generator in Python
 ==============================================
 
+The present fork is making minor changes to update to python 3.6
+
 PyDistMesh_ is a simple Python code for generating unstructured
 triangular and tetrahedral meshes using *signed distance functions*. It
 intends to have the same functionality as and similar interface to the
